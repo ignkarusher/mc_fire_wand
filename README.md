@@ -1,1 +1,1 @@
-# mc_fire_wand
+# Fire Wand
